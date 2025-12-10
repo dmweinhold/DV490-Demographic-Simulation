@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="Demographic Sim", layout="centered")
 
-st.title("Demographic Dynamics Simulation")
+st.title("DV490 Demographic Simulation")
 st.write("Adjust the parameters in the sidebar to see how population and dependency change over 300 years.")
 
 # --- SIDEBAR INPUTS ---
